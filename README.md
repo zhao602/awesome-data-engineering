@@ -322,6 +322,7 @@
 - [Mage](https://www.mage.ai) - Open-source data pipeline tool for transforming and integrating data.
 - [SQLMesh](https://sqlmesh.readthedocs.io) - An open-source data transformation framework for managing, testing, and deploying SQL and Python-based data pipelines with version control, environment isolation, and automatic dependency resolution.
 - [Ciaren](https://github.com/ciaren-labs/Ciaren) - A local-first visual ETL and ML workflow builder with per-step previews, cron scheduling, and export to pandas or Polars code.
+- [wfp](https://github.com/zhao602/wfp) - YAML-first orchestration kernel for mixed data and LLM-agent pipelines: schema-checked DAGs with semantic diff for CI, parallel fan-out with checkpoint resume, and an embeddable multi-tenant SDK (Apache-2.0).
 
 ## Data Lake Management
 
